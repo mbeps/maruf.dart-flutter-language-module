@@ -1,0 +1,17 @@
+{
+    "name": "dart-flutter-extension-pack",
+    "displayName": "Dart-Flutter Extension Pack",
+    "description": "Collection of Dart and Flutter Extensions",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Dart-Code.dart-code",
+		"Dart-Code.flutter"
+    ]
+}
