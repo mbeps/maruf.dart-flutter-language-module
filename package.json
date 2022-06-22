@@ -1,6 +1,6 @@
 {
-    "name": "dart-flutter-extension-pack",
-    "displayName": "Dart-Flutter Extension Pack",
+    "name": "dart-flutter-language-module",
+    "displayName": "Dart-Flutter Language Module",
     "description": "Collection of Dart and Flutter Extensions",
     "version": "0.0.1",
     "publisher": "Maruf",
