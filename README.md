@@ -1,2 +1,2 @@
-# Python Language Module
-Contains extensions for Python development. This extension can be used as profiles; for example, if Python development is needed, then this can be enabled which will also enable all the extension related to it in bulk. 
+# Dart/Flutter Language Module
+Contains extensions for Dart/Flutter development. This extension can be used as profiles; for example, if Dart/Flutter development is needed, then this can be enabled which will also enable all the extension related to it in bulk. 
